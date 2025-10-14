@@ -1,0 +1,6 @@
+opencv-python
+numpy
+sounddevice
+pyttsx3
+matplotlib
+colorama
